@@ -8,8 +8,6 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat&logo=linux&logoColor=FFFFFF)
 
-![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-
 ### Languages I have used
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
